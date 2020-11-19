@@ -1,0 +1,4 @@
+C:\Users\55119\Desktop\backend\Pedir Nota\obj\Debug\netcoreapp3.1\Pedir Nota.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\backend\Pedir Nota\obj\Debug\netcoreapp3.1\Pedir Nota.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\backend\Pedir Nota\obj\Debug\netcoreapp3.1\Pedir Nota.AssemblyInfo.cs
+C:\Users\55119\Desktop\backend\Pedir Nota\obj\Debug\netcoreapp3.1\Pedir Nota.csproj.CoreCompileInputs.cache
