@@ -1,0 +1,13 @@
+C:\Users\55119\Desktop\backend\Leitor de Usuario\obj\Debug\netcoreapp3.1\Leitor de Usuario.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\backend\Leitor de Usuario\obj\Debug\netcoreapp3.1\Leitor de Usuario.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\backend\Leitor de Usuario\obj\Debug\netcoreapp3.1\Leitor de Usuario.AssemblyInfo.cs
+C:\Users\55119\Desktop\backend\Leitor de Usuario\obj\Debug\netcoreapp3.1\Leitor de Usuario.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\backend\Leitor de Usuario\bin\Debug\netcoreapp3.1\Leitor de Usuario.exe
+C:\Users\55119\Desktop\backend\Leitor de Usuario\bin\Debug\netcoreapp3.1\Leitor de Usuario.deps.json
+C:\Users\55119\Desktop\backend\Leitor de Usuario\bin\Debug\netcoreapp3.1\Leitor de Usuario.runtimeconfig.json
+C:\Users\55119\Desktop\backend\Leitor de Usuario\bin\Debug\netcoreapp3.1\Leitor de Usuario.runtimeconfig.dev.json
+C:\Users\55119\Desktop\backend\Leitor de Usuario\bin\Debug\netcoreapp3.1\Leitor de Usuario.dll
+C:\Users\55119\Desktop\backend\Leitor de Usuario\bin\Debug\netcoreapp3.1\Leitor de Usuario.pdb
+C:\Users\55119\Desktop\backend\Leitor de Usuario\obj\Debug\netcoreapp3.1\Leitor de Usuario.dll
+C:\Users\55119\Desktop\backend\Leitor de Usuario\obj\Debug\netcoreapp3.1\Leitor de Usuario.pdb
+C:\Users\55119\Desktop\backend\Leitor de Usuario\obj\Debug\netcoreapp3.1\Leitor de Usuario.genruntimeconfig.cache
